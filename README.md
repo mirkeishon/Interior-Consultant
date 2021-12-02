@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://interior-consultant-kfpb.onrender.com/">
       Demo
     </a>
     <span> | </span>
@@ -32,7 +32,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/94877748/144355770-45568e45-4791-4f21-ab24-2195c9fe3dbf.png)
 
-- You can find the demo in this url
+- You can find the demo in this [url](https://interior-consultant-kfpb.onrender.com/)
 
 ### Built With
 
